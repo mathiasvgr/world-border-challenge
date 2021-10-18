@@ -4,7 +4,7 @@ Hey ! I create a datapack that change crafting and bartering to make this challe
 
 
 ## Crafting
----
+
 
 ![](./public/blaze_rod_craft.png)
 ![](./public/endstone_craft.png)
@@ -13,7 +13,7 @@ Hey ! I create a datapack that change crafting and bartering to make this challe
 </br>
 
 ## BATERING
----
+
 
 this is the **current trade** you can have with piglin!
 
@@ -30,7 +30,7 @@ the rest is the same !
 </br>
 
 ## How to :
----
+
 
 ### **Add to already existing World**
 
