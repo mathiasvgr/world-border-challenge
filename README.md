@@ -15,14 +15,14 @@ Hey ! I create a datapack that change crafting and bartering to make this challe
 ## BATERING
 
 
-this is the **current trade** you can have with piglin!
+This is the **current trade** you can have with piglin!
 
 ![](./public/batering.png)
 
 What is added : 
 
-- 1) blaze_powder => 1.74%
-- 2) nether_wart => 2.18%
+1. blaze_powder => 1.74%
+2. nether_wart => 2.18%
 
 the rest is the same !
 
