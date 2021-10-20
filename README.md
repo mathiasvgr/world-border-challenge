@@ -41,7 +41,7 @@ the rest is the same !
 5. type `/datapack list`
     -    **world-border-challenge-datapack** should appear in red,  
     - if in green, no need to do the next step
-6. type `/datapack enable  **world-border-challenge-datapack** `
+6. type `/datapack enable  world-border-challenge-datapack `
 7. type `/reload`, just to be sure
 
 </br>
@@ -67,11 +67,8 @@ in game type :
 
 if you want more info check this : https://minecraft.fandom.com/wiki/Commands/worldborder
 
-
 ---
 
-
 ps : I made it for my **minecraft Java** so i don't know if it works on bedrock. Well, if you have any suggestions for improvement or ideas, go for it!
-I'm new to this "minecraft dev", if you can call it that way, so any resources can be helpful! 
-
-
+I'm new to this "minecraft dev", if you can call it that way, so any resources can be helpful!
+the most famous challenges are 1 chunk border or 100x100 challenge. In this "tutorial" I choose 100x100 `/worldborder set 100` note that you can change `100` by any value you want ! 
